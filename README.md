@@ -38,13 +38,10 @@ Key reasons to use GA:
 ## Project Structure
 
 genetic-job-scheduler/
+
 ├── jsp-instance.txt        # Input file: number of machines, number of jobs, and job durations
-
 │
-
 ├── scheduler.py            # Main script that runs the Genetic Algorithm
-
 │
-
 ├── README.md               # Project documentation (you are here)
 
