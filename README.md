@@ -7,13 +7,13 @@ This project implements a Genetic Algorithm (GA) to solve the **Job Scheduling P
 
 ---
 
-Problem Statement
+# Problem Statement
 
 The **Job Scheduling Problem (JSP)** involves assigning `n` jobs to `m` machines with the goal of optimizing a scheduling criterion (e.g., minimizing makespan or job lateness). It's an NP-hard problem commonly found in manufacturing, cloud computing, and operations research.
 
 ---
 
-Why Genetic Algorithm?
+# Why Genetic Algorithm?
 
 Genetic Algorithms are powerful metaheuristic optimization techniques inspired by natural selection. They are well-suited for solving combinatorial and complex optimization problems like JSP.
 
@@ -24,7 +24,7 @@ Key reasons to use GA:
 
 ---
 
-How It Works
+# How It Works
 
 1. **Initialization**: Generate an initial population of random job sequences.
 2. **Fitness Evaluation**: Calculate makespan (or other metrics) for each individual.
@@ -35,7 +35,7 @@ How It Works
 
 ---
 
-Project Structure
+# Project Structure
 
 genetic-job-scheduler/
 
@@ -44,4 +44,11 @@ jsp-instance.txt          # Input file: number of machines, number of jobs, and 
 scheduler.py              # Main script that runs the Genetic Algorithm
 
 README.md                 # Project documentation (you are here)
+
+---
+
+# Installation 
+
+```bash
+pip install customtkinter matplotlib
 
