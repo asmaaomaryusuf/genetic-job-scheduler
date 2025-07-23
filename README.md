@@ -48,9 +48,8 @@ README.md                 # Project documentation (you are here)
 ---
 # GUI & output
 
-![App Screenshot](images/Screenshot1.png)
-
-![App Screenshot](images/Screenshot2.png)
+<img src="/Screenshot1.png" alt="App Screenshot" width="500"/>
+<img src="/Screenshot2.png" alt="App Screenshot" width="500"/>
 
 ---
 # Installation 
