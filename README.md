@@ -46,9 +46,14 @@ scheduler.py              # Main script that runs the Genetic Algorithm
 README.md                 # Project documentation (you are here)
 
 ---
+# GUI & output
 
+![App Screenshot](images/Screenshot1.png)
+
+![App Screenshot](images/Screenshot2.png)
+
+---
 # Installation 
 
 ```bash
 pip install customtkinter matplotlib
-
